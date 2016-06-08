@@ -18,4 +18,3 @@ and makes it Docker friendly via the following changes:
 ```
 docker run -d -p 6379 jimeh/redis-for-development
 ```
-
